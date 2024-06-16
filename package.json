@@ -1,6 +1,6 @@
 {
   "name": "@paper-folding/propagating-hammerjs",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Extend hammer.js with event propagation",
   "main": "propagating.js",
   "module": "./src/propagating.js",
@@ -10,7 +10,8 @@
     "HISTORY.md",
     "LICENSE",
     "README.md",
-    "propagating.js"
+    "propagating.js",
+    "propagating.d.ts"
   ],
   "scripts": {
     "build": "rollup ./src/propagating.js --file propagating.js --format umd --output.name propagating",
