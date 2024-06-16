@@ -1,6 +1,6 @@
 {
-  "name": "propagating-hammerjs",
-  "version": "3.0.0",
+  "name": "@paper-folding/propagating-hammerjs",
+  "version": "3.0.1",
   "description": "Extend hammer.js with event propagation",
   "main": "propagating.js",
   "module": "./src/propagating.js",
